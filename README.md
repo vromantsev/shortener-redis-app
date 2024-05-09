@@ -10,7 +10,7 @@ Run Redis in Docker using the following command:
 
 `Content-Type: application/json`
 
-{
+`{
   "initialUrl": "https://bobocode.com"
 }`
 
