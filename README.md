@@ -6,14 +6,13 @@ Run Redis in Docker using the following command:
 
 <b>Example of POST request:</b>
 ###
-POST http://localhost:8080/api/urls
+<b>POST</b> `http://localhost:8080/api/urls`
 Content-Type: application/json
 
-{
-"initialUrl": "https://bobocode.com"
-}
+`{
+  "initialUrl": "https://bobocode.com"
+}`
 
-
-Example of GET request:
+<b>Example of GET request:</b>
 ###
-GET http://localhost:8080/api/urls/qsxiebDvhj
+<b>GET</b> `http://localhost:8080/api/urls/qsxiebDvhj`
